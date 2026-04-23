@@ -1,3 +1,0 @@
-This is sample txt file created in this folder
-
-Hello , I'm Robindeep , I commit this
